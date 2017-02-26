@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DummyGUIProject</string>
+    <string name="passport"><b><u>Passport</u></b></string>
 </resources>
